@@ -1,0 +1,63 @@
+{
+  "artifact": "hardware/easyeda/BuckBoost_RevC_NoLogo.epro2",
+  "sha256": "016d37232ffe036be2d316efc494fa6451b0615ddcd4cd9953c12e5e0bc8b49b",
+  "original_sha256": "7716d727d749332db5487952d9e7fa450ff1b87944e54fd40bc9da0ca456aa95",
+  "revb_sha256": "622737f7a30141d7029b97524afe33c142844762c5240d4d98edd91850cfc6b5",
+  "native_counts": {
+    "DOCHEAD": 1,
+    "META": 1,
+    "PRIMITIVE": 37,
+    "CANVAS": 1,
+    "LAYER": 60,
+    "LAYER_PHYS": 9,
+    "ACTIVE_LAYER": 1,
+    "RULE_TEMPLATE": 1,
+    "RULE": 17,
+    "SILK_OPTS": 2,
+    "PREFERENCE": 1,
+    "PANELIZE": 1,
+    "NET": 29,
+    "COMPONENT": 63,
+    "PAD_NET": 185,
+    "ATTR": 214,
+    "RULE_SELECTOR": 20,
+    "POLY": 1,
+    "POUR": 2,
+    "PAD": 4,
+    "LINE": 422,
+    "VIA": 28,
+    "STRING": 18,
+    "POURED": 2
+  },
+  "logo_top_silk_polygons": 0,
+  "removed_logo_strokes": 1156,
+  "pin_nets_unchanged_from_R8": true,
+  "track_geometry_unchanged_from_R8_to_0.01mil": true,
+  "fixed_R_and_ceramics_1206": 43,
+  "EP_mm": {
+    "U1": [
+      3.1,
+      2.6
+    ],
+    "U2": [
+      2.6,
+      2.59
+    ],
+    "U4": [
+      2.96,
+      2.96
+    ]
+  },
+  "native_PCB_DRC": {
+    "errors": 0,
+    "checked_date": "2026-10-28"
+  },
+  "native_schematic_DRC": {
+    "fatal": 0,
+    "errors": 0,
+    "warnings": 0,
+    "information": 0,
+    "checked_time": "2026-10-28 19:17:44"
+  },
+  "prototype_measurements_completed": false
+}
